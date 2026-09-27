@@ -1,0 +1,6 @@
+{
+  "name": "Pack2Git - Package to GitHub",
+  "description": "Turn a project package ZIP archive into a real, verified GitHub repository with preserved directory structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
